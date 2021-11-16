@@ -1,5 +1,6 @@
 <script context="module" lang="ts">
 	import { enhance } from '$lib/form';
+	// コンポーネントが初期化される前に呼ばれる
 	import type { Load } from '@sveltejs/kit';
 
 	// see https://kit.svelte.dev/docs#loading
