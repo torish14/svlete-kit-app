@@ -4,7 +4,7 @@
 </script>
 
 <script lang="ts">
-	import Counter from '$lib/Counter.svelte'
+import Todos from '../components/Todos.svelte'
 </script>
 
 <!-- タブタイトル -->
@@ -12,15 +12,7 @@
 	<title>Home</title>
 </svelte:head>
 
-<section>
-	<h1>
-	</h1>
-
-	<h2>
-	</h2>
-
-	<Counter />
-</section>
+<Todos />
 
 <style>
 </style>
