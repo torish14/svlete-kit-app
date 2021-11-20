@@ -71,7 +71,7 @@
             Edit
             <span class="visually-hidden">Create your first component</span>
           </button>
-          <button class="btn btn_danger">
+          <button type="button" class="btn btn__danger">
             Delete
             <span class="visually-hidden">Create your first component</span>
           </button>
@@ -95,7 +95,7 @@
               Complete the rest of the tutorial
             </span>
           </button>
-          <button class="btn btn__danger">
+          <button type="button" class="btn btn__danger">
             Delete
             <span class="visually-hidden">
               Complete the rest of the tutorial
