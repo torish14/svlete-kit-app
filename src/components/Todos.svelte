@@ -29,12 +29,12 @@
   <h2 id="list-heading">2 out of 3 items completed</h2>
 
   <!-- Todos -->
-  <ul class="todo-list stach-large" role="list" aria-labelledby="list-heading">
+  <ul class="todo-list stack-large" role="list" aria-labelledby="list-heading">
 
     <!-- Todo1 （編集モード） -->
     <li class="todo">
       <div class="stack-small">
-        <form class="stack-small form-group">
+        <form class="stack-small">
           <div class="form-group">
             <label for="todo-1" class="todo-label">
               New name for 'Create a svelte kit app'
@@ -81,7 +81,7 @@
 
     <!-- Todo3 -->
     <li class="todo">
-      <div class="stach-small">
+      <div class="stack-small">
         <div class="c-cb">
           <input type="checkbox" id="todo-3">
           <label for="todo-3" class="todo-label">
